@@ -26,14 +26,14 @@ body {
   justify-content: center;
   color: aliceblue;
   font-family: 'Charm', cursive;
-  font-size: 3.5vw;
+  font-size: 7.5vw;
 }
 .context .brand .s {
   color: rgba(255, 0, 0, 0.95);
 }
 .context .brand {
   position: relative;
-  top: 2vh;
+  top: 5vh;
   padding-left: 0;
   background: rgba(197, 172, 172, 0.09);
   color: rgba(255, 255, 255, 0.55);
@@ -118,15 +118,15 @@ body {
 
 .circles li:nth-child(6) {
   left: 75%;
-  width: 10rem;
-  height: 10rem;
+  width: 5rem;
+  height: 5rem;
   animation-delay: 7s;
 }
 
 .circles li:nth-child(7) {
   left: 35%;
-  width: 10rem;
-  height: 10rem;
+  width: 5rem;
+  height: 5rem;
   animation-delay: 0s;
   animation-duration: 7s;
 }
@@ -149,8 +149,8 @@ body {
 
 .circles li:nth-child(10) {
   left: 85%;
-  width: 12rem;
-  height: 12rem;
+  width: 5rem;
+  height: 5rem;
   animation-delay: 0s;
   animation-duration: 8s;
 }
@@ -170,9 +170,9 @@ body {
 }
 
 .animated {
-  display: flex;
+  
   font-family: 'Charm', cursive;
-  font-size: 6vw;
+  font-size: 18vw;
   background: url('text-bg.png');
   background-clip: text;
   -webkit-background-clip: text;
