@@ -172,7 +172,7 @@ body {
 .animated {
   
   font-family: 'Charm', cursive;
-  font-size: 18vw;
+  font-size: 10vw;
   background: url('text-bg.png');
   background-clip: text;
   -webkit-background-clip: text;
